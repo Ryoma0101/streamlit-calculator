@@ -20,7 +20,7 @@
     pip install -r requirements.txt
     ```
 
-    `requirements.txt` が提供されていない場合、手動でStreamlitをインストールできます:
+    手動でStreamlitをインストールできます:
 
     ```bash
     pip install streamlit
