@@ -1,6 +1,11 @@
 import streamlit as st
 import re
 
+st.set_page_config(
+    page_title="計算機",
+    page_icon="favicon.png"
+)
+
 
 def app():
     st.title('計算機')
